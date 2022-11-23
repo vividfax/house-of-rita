@@ -5,7 +5,7 @@ function setup() {
     createCanvas(windowWidth, windowHeight);
     background(107, 113, 126);
     fill("#FFE8E1");
-    textSize(20);
+    textSize(40);
     textFont("Lora");
 }
 
